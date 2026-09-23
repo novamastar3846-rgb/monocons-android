@@ -6901,4 +6901,6 @@
   <item component="ComponentInfo{com.sprd.sprdnote/com.sprd.sprdnote.NoteActivity}" drawable="generic_notes" name="记事本 ~~ Notepad" />
   <item component="ComponentInfo{org.mewx.wenku8/org.mewx.wenku8.activity.MainActivity}" drawable="generic_book" name="轻小说文库 ~~ Light Novel Library" />
   <item component="ComponentInfo{space.takashima.keypo/org.mozc.android.inputmethod.japanese.LauncherActivity}" drawable="generic_keyboard" name="ﾀｸﾄ ｷｰﾎﾞｰﾄﾞ ~~ Takt keyboard" />
+  <item component="ComponentInfo{com.gov.ssc/com.gov.ssc.MainActivity}" drawable="mySSC" name="mySSC" />
+
 </resources>
